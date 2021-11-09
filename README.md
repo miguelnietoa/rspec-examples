@@ -1,4 +1,5 @@
-# rspec-basics
+# RSpec Examples
+
 
 ## Run all tests
 ```bash
